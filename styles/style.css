@@ -1,0 +1,59 @@
+#refrence{
+    background-color:black;
+    text-align: center;
+    width: 400px;
+    margin-inline: 550px;
+    }
+    a{
+        color:white;
+        margin-right: 30px;
+        text-align: center;
+     }
+     #INTRODUCTION{
+        background-color: blue;
+        color: aquamarine;
+     }
+     #SHOWCASE{
+        background-color: yellow;
+     }
+     
+     #hobbies{
+      width: 180px;
+     }
+     #skills{
+   
+      width: 87px;
+     }
+     #image{
+      width:150px;
+      margin-inline: 200px;
+      
+     }
+     #heading{
+      text-align: center;
+      background-color: blanchedalmond;
+     }
+     #detail1{
+      border: 15px solid black;
+     }
+     #detail2{
+      border: 15px solid black;
+     }
+     #detail3{
+      border: 15px solid black;
+     }
+     #refrencee{
+      background-color:black;
+      text-align: center;
+      width: 400px;
+      margin-inline: 550px;
+
+     }
+     #refrence2{
+      background-color:black;
+      text-align: center;
+     }
+     #refrence3{
+      background-color: cornflowerblue;
+      text-align: center;
+     }
